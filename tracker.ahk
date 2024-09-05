@@ -3,10 +3,10 @@ F12::
     offsetY:=27
     CoordMode, Pixel, Screen
     Send {Shift down}
-    Loop, 50
+    Loop, 100
     {
         MouseGetPos, x, y
-        PixelSearch, Px, Py, x-200, y-200, x+200, y+200, 0x2fb6ad, 20, Fast
+        PixelSearch, Px, Py, x-300, y-300, x+300, y+300, 0x96533f, 30, Fast
         if (ErrorLevel = 0)
         {
             MouseClick, left, Px+offsetX, Py+offsetY
