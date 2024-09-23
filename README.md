@@ -10,4 +10,4 @@ To use it, run the program, hover your mouse over the object and press `tab`. Th
 So autohotkey has a built in functionality to detect certain pixel color ranges within a certain range. This is different from the built in autotracker in the tracker software because instead of detecting that exact pixel color, you can choose to also consider certain hex colors that are near the exact hex color as correct. This is useful if it is interfered by shadows which change the color of the object as it falls. Its not ideal for low contrast color objects. You should use a red object or something if you want to use the program.
 ## Demo Video
 Heres a demo gif of it in action. This video i used it on is just a random video I used to test my program.
-![Gif](https://r2.e-z.host/0a585a51-c22e-4d3e-804a-efc077a2d38c/1e9irmv2.gif)
+![Gif](https://github.com/patrickzhou1234/PhysicsAutoTracker/blob/main/combined.gif?raw=true)
